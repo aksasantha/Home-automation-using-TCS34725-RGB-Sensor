@@ -1,1 +1,2 @@
 # Home-automation-using-TCS34725-RGB-Sensor
+Please note that the above code assumes you have a library called SmartLightBulbLibrary that provides functions for controlling the smart light bulb. You need to replace it with the appropriate library or code for your specific home automation system. Additionally, make sure you have the necessary connections between the TCS34725 sensor and your microcontroller.
